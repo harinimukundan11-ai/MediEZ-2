@@ -1,4 +1,4 @@
-# UnifiedHealth — Patient & Hospital Records App (Streamlit)
+# MediEZ — Patient & Hospital Records App (Streamlit)
 
 A single Streamlit app with two coordinated interfaces — **Patient** and
 **Hospital** — sharing one SQLite database so data flows correctly between
