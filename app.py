@@ -84,7 +84,7 @@ def go_home():
 # Landing page
 # ============================================================================
 def render_landing():
-    st.title("🩺 UnifiedHealth")
+    st.title("🩺 MediEZ")
     st.caption("One platform connecting patients and hospitals.")
     st.write("")
     col1, col2 = st.columns(2)
